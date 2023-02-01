@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{74011D1F-41C8-56B2-79CC-47B54F57EC93}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MetaHumansTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
